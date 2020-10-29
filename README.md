@@ -320,7 +320,7 @@ while (1) sleep();
 
 ### ```pku-cover.tex```
 
-* 若修改标题, 
+* 若修改标题, 需要手工调整部分下划线位置.
 
 ```latex
 \documentclass{article}
