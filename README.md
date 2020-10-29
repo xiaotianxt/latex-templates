@@ -3,7 +3,7 @@
 整理了一些常用的TeX模板, 欢迎切磋取用. 因内容是逐渐积累而得, 故代码风格和格式有所不同, 敬请谅解. 制作之基本标准是: 简洁美观, 功能齐全. 其中, 较为正式的pre和课程笔记均单独分离```sty```文件, 而追求短平快的作业和报告则直接以```tex```形式提供.
 
 * ```mathpre.sty```: 用于presentation.
-* ```notes.sty```: 用于scribe notes和汇编整理note.
+* ```notes.sty```: 用于scribe notes和汇编整理notes.
 * ```homework.tex```: 用于写作业.
 * ```report.tex```: 用于写课程报告.
 
