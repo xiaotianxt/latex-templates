@@ -1,6 +1,6 @@
 # LaTeX Templates - 日常事务LaTeX懒人包
 
-[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![HitCount](http://hits.dwyl.com/wangchang327/latex-templates.svg)](http://hits.dwyl.com/wangchang327/latex-templates)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/) [![GitHub stars](https://img.shields.io/github/stars/wangchang327/latex-templates.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/wangchang327/latex-templates/stargazers/)
 
 整理了一些常用的TeX模板，欢迎切磋取用。因内容是逐渐积累而得，故代码风格和格式有所不同，敬请谅解。制作之基本标准是：简洁美观、功能齐全。其中，较为正式的pre和课程笔记均单独分离```sty```文件，而追求短平快的作业和报告则直接以```tex```形式提供。
 
